@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.shoping-cart{
+  justify-content: space-between;
+  background-color: aqua;
+  padding: 20px 30px;
+}
+.product-item{
+  padding: 20px;
+}
+.shoping-cart h1{
+  color: deeppink;
+  position: relative;
+  left: 40px;
+}
+.div{
+  cursor: pointer;
+}
+.div1{
+  cursor: pointer;
+}
+  
